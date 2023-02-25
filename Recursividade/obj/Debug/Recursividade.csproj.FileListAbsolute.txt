@@ -1,0 +1,8 @@
+C:\Luana-cursos\Recursividade\Recursividade\bin\Debug\Recursividade.exe.config
+C:\Luana-cursos\Recursividade\Recursividade\bin\Debug\Recursividade.exe
+C:\Luana-cursos\Recursividade\Recursividade\bin\Debug\Recursividade.pdb
+C:\Luana-cursos\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.AssemblyReference.cache
+C:\Luana-cursos\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.SuggestedBindingRedirects.cache
+C:\Luana-cursos\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.CoreCompileInputs.cache
+C:\Luana-cursos\Recursividade\Recursividade\obj\Debug\Recursividade.exe
+C:\Luana-cursos\Recursividade\Recursividade\obj\Debug\Recursividade.pdb
